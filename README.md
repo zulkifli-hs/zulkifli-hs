@@ -25,10 +25,10 @@
 I build software end to end: APIs that hold up under load, interfaces that feel considered, mobile apps that ship, and the pipelines that carry all of it to production. Then I teach the engineers who take it from there.
 
 - 🧪 **6+ years** shipping production systems for Indonesian government ministries, enterprises and startups across web, mobile and backend
-- 🏗️ **Senior Software Engineer @ [Technoverse](https://technoverse.ltd)**: I own architecture end to end and ship AI-powered features built on the OpenAI and Claude APIs
+- 🏗️ **Solution Architect @ Duta Firza Mulia**: I design systems end to end, after years at [Technoverse](https://technoverse.ltd) shipping AI-powered features built on the OpenAI and Claude APIs
 - 🎓 **Former Lead of Program Development @ Hacktiv8**: I ran the Golang, Generative AI, UI/UX and Marketing tracks after years teaching full-stack JavaScript to cohorts of 30+
-- 🧰 Core in **React, Next.js and Node.js**, with Go, React Native, Flutter and cloud infrastructure (AWS, GCP) alongside
-- 📊 **6+** years · **13** shipped projects · **40+** technologies
+<!-- - 🧰 Core in **React, Next.js and Node.js**, with Go, React Native, Flutter and cloud infrastructure (AWS, GCP) alongside -->
+<!-- - 📊 **6+** years · **13** shipped projects · **40+** technologies -->
 
 ## `// stack`
 
@@ -131,7 +131,8 @@ I build software end to end: APIs that hold up under load, interfaces that feel 
 
 ## `// experience`
 
-- **Technoverse**: Senior Software Engineer · Senior Frontend Developer <sub>(2023 – now)</sub>
+- **Duta Firza Mulia**: Solution Architect <sub>(Sep 2026 – now)</sub>
+- **Technoverse**: Senior Software Engineer · Senior Frontend Developer <sub>(2023 – Sep 2026)</sub>
 - **Hacktiv8**: Lead of Program Development & Special Projects · Lead Full-Stack JavaScript Instructor · Instructor <sub>(2020 – 2025)</sub>
 - **Warnas**: Full-Stack Developer <sub>(2020 – 2023)</sub>
 
